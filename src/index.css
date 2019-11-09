@@ -35,6 +35,7 @@ body {
 .book-list ul {
   padding: 10px;
   border-radius: 14px;
+  overflow: hidden;
 }
 .book-list li {
   background: #6d3d6d;
@@ -42,6 +43,7 @@ body {
   padding: 20px;
   cursor: pointer;
   margin: 20px 10px;
+  overflow: hidden;
 }
 .book-list li:hover {
   opacity: 0.7;
