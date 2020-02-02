@@ -1,2 +1,3 @@
 ## READING LIST
-![](src/assets/github_images/mainpage.png)
+![](src/images/readinlist.png)
+![](src/images/readinglist1.png)
